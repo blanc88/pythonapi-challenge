@@ -1,4 +1,5 @@
 # Adding config.py file.
 WeatherPy/api_keys.py
 VacationPy/api_keys.py
+api_keys.py
 __pycache__
